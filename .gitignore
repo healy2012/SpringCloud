@@ -4,4 +4,9 @@
 data
 logs
 target
+**/.settings/
+**/target/
+**/.classpath
+**/.project
+
 
